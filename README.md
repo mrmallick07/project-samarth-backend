@@ -1,3 +1,5 @@
+![GitHub stars](https://img.shields.io/github/stars/mrmallick07/project-samarth-backend?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mrmallick07/project-samarth-backend?style=social)
 # 🌾 Project Samarth - Backend API
 
 > Intelligent Q&A system that answers complex questions about India's agricultural economy and climate patterns by querying live data from **data.gov.in**
